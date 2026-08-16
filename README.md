@@ -14,7 +14,7 @@ The tool combines external datasets with customizable user preferences, allowing
 
 ## Live Demo
 
-A public interactive version of the application will be available through Streamlit Community Cloud.
+A public interactive version of the application is available through Streamlit Community Cloud.
 
 **Live Demo:** [*link to be added after deployment*](https://exchange-destination-analyzer.streamlit.app/)
 
